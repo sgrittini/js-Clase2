@@ -13,8 +13,11 @@
     <form>
         <input type="checkbox" id="Alert" name="Alert" value="Alerta">
         <label for="vehicle1">Mensajes por Alert</label><br>
-        <input type="checkbox" id="Console" name="Console" value="Consola" checked="true">
+        <input type="checkbox" id="Console" name="Console" value="Consola">
         <label for="vehicle2">Mensajes por Console</label><br>
+        <input type="checkbox" id="Page" name="Page" value="Pagina" checked="true">
+        <label for="vehicle2">Mensajes en la Pagina</label><br>
+
    </form>
     <div class="contenedorBotones">
     <button onclick="saludar()">Saludar</button>
@@ -24,6 +27,8 @@
     <button onclick="saludarA('Sergio Leonardo')">Saludar a Sergio Leonardo (P)</button>
 
     <button onclick="saludarANN()">Saludar a NN (P)</button>
+
+    <button onclick="concatenar()">Concatenar 2 valores</button>
 
     <button onclick="sumar()">Sumar 2 nros</button>
     

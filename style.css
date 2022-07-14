@@ -8,6 +8,21 @@ button{
     background-color: aqua;
     height: auto;
     width: 100px;
-    padding: 20px;
-    margin: 5px;
+    padding: 10px;
+    margin: 2px;
+    font-weight: bold;
+}
+#resultado{
+    margin-top: 10px;
+    border: 1px dashed black;
+    background-color: lightskyblue;
+    padding-right: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+p{
+    font-size: larger;
+    font-weight: bolder;
+    
 }
