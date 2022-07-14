@@ -1,0 +1,13 @@
+.contenedorBotones{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+}
+button{
+    background-color: aqua;
+    height: auto;
+    width: 100px;
+    padding: 20px;
+    margin: 5px;
+}

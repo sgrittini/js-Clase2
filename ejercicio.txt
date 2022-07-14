@@ -1,0 +1,21 @@
+Formato: Código fuente en archivo JavaScript, formato .js, vinculado al archivo HTML 
+correspondiente.
+Sugerencia: Usamos prompt() para solicitar datos al usuario y console.log() o 
+alert() para mostrar el resultado de las operaciones realizadas con esos datos. 
+Si vas a sumar una entrada, toma en cuenta que tienes que analizarla antes. 
+Usando parseInt() o parseFloat() 
+
+
+>> Consigna: Crea un script en JS que le solicite al usuario ingresar mínimo 1(un) dato.
+ Luego, con JavaScript, realiza operaciones matemáticas o de concatenación sobre las 
+ entradas teniendo en cuenta el tipo de dato. Al finalizar muestra el resultados con alert() 
+ o console.log()
+
+ >>Elegir un tipo de pedido. Por ejemplo:
+Pedir nombre mediante prompt y mostrarlo en consola junto con algún texto de saludo. 
+Ejemplo:  ¡Hola, Juan!
+Pedir un número mediante prompt, parsearlo, sumarlo a otro que se encuentre almacenado en una 
+variable y luego mostrar el resultado en consola.
+Pedir un texto mediante prompt, luego otro, concatenarlos y mostrarlo en un alerta.
+
+
